@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{41E2F108-1613-46FB-8381-EE0BA55B5671}|Default" GitUserInfo="UsingGIT">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.todo-api PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="todo-api/Controllers/TodoController.cs">
+    <Files>
+      <File FileName="todo-api/Program.cs" />
+      <File FileName="todo-api/Dockerfile" Line="2" Column="12" />
+      <File FileName="todo-api/Controllers/TodoController.cs" Line="36" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="todo-api" expanded="True">
+            <Node name="todo-api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TodoController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

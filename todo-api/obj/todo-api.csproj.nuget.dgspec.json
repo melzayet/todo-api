@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mahmoudelzayet/Projects/todo-api/todo-api/todo-api.csproj": {}
+  },
+  "projects": {
+    "/Users/mahmoudelzayet/Projects/todo-api/todo-api/todo-api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mahmoudelzayet/Projects/todo-api/todo-api/todo-api.csproj",
+        "projectName": "todo-api",
+        "projectPath": "/Users/mahmoudelzayet/Projects/todo-api/todo-api/todo-api.csproj",
+        "packagesPath": "/Users/mahmoudelzayet/.nuget/packages/",
+        "outputPath": "/Users/mahmoudelzayet/Projects/todo-api/todo-api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mahmoudelzayet/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Extensions.AspNetCore.DataProtection.Blobs": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.8.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.31.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
